@@ -1,4 +1,4 @@
-<h4 align="left">👋 Olá! Meu nome é Leonardo da Mata Santos.  <br><br>🎓 Estudante de Ciência da Computação, apaixonado por tecnologia e análise de dados. <br> <br>💻 Tenho experiência com Python, SQL, Excel e Power BI e estou em busca da minha primeira oportunidade na área de Análise de Dados.  <br>📊 Aqui compartilho projetos acadêmicos e pessoais voltados para dados, automação e inteligência artificial.  <br><br>🚀 Sempre aberto a aprender e crescer na área de tecnologia!</h4>
+<h4 align="left">👋 Olá! Meu nome é Leonardo da Mata Santos.  <br><br>🎓 Estudante de Ciência da Computação, apaixonado por tecnologia e análise de dados. <br> <br>💻 Tenho experiência com Python, SQL, Excel e Power BI e estou em busca da minha primeira oportunidade na área de Análise de Dados. <br> <br>📊 Aqui compartilho projetos acadêmicos e pessoais voltados para dados, automação e inteligência artificial.  <br><br>🚀 Sempre aberto a aprender e crescer na área de tecnologia!</h4>
 
 ###
 
